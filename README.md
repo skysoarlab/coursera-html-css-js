@@ -4,7 +4,7 @@
 
 ### Modules solutions
 
-- Module 2
+- [Module 2](https://github.com/skysoarlab/coursera-html-css-js/tree/master/module2-solution)
 - Module 3
 - Module 4
 - Module 5

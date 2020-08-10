@@ -1,4 +1,4 @@
-## [Coursera-html-css-js ](https://skysoarlab.github.io/coursera-html-css-js/)
+## [Coursera-html-css-js ](https://github.com/skysoarlab/coursera-html-css-js)
 
 
 

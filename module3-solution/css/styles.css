@@ -1,6 +1,6 @@
 body {
     font-size: 16px;
-    font-family: 'Chilanka', sans-serif;
+    font-family: 'Raleway', sans-serif;
     /*color: #1a1a1a;*/
     background-color: #d5dbdb;
 }
@@ -33,10 +33,11 @@ body {
 
 .navbar-brand h1 {
     /*color: #7d1913;*/
-    font-family: 'Recursive', sans-serif;
+    font-family: 'Chilanka', cursive;
     font-weight: bolder;
     font-size: 1.8em;
     text-shadow: 1px 1px 1px #222;
+    padding-left: 30px;
 }
 
 .navbar-brand a:hover {
@@ -79,7 +80,6 @@ hr {
 /**END HEADER**/
 
 /** HOME PAGE **/
-
 #main-content {
     width: 92%;
     margin-bottom: 30px;
@@ -105,6 +105,4 @@ hr {
     margin-bottom: 60px;
     /*box-shadow: 0 0 80px #18580b;*/
 }
-
-
 /** END HOME PAGE **/

@@ -37,7 +37,7 @@ body {
     font-weight: bolder;
     font-size: 1.8em;
     text-shadow: 1px 1px 1px #222;
-    padding-left: 30px;
+    /*padding-left: 30px;*/
 }
 
 .navbar-brand a:hover {
